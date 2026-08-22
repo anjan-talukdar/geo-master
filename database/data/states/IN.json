@@ -1,0 +1,218 @@
+[
+  {
+    "state_code": "AN",
+    "name": "Andaman and Nicobar Islands",
+    "gst_code": "35",
+    "capital": "Port Blair"
+  },
+  {
+    "state_code": "AP",
+    "name": "Andhra Pradesh",
+    "gst_code": "37",
+    "capital": "Amaravati"
+  },
+  {
+    "state_code": "AR",
+    "name": "Arunachal Pradesh",
+    "gst_code": "12",
+    "capital": "Itanagar"
+  },
+  {
+    "state_code": "AS",
+    "name": "Assam",
+    "gst_code": "18",
+    "capital": "Dispur"
+  },
+  {
+    "state_code": "BR",
+    "name": "Bihar",
+    "gst_code": "10",
+    "capital": "Patna"
+  },
+  {
+    "state_code": "CH",
+    "name": "Chandigarh",
+    "gst_code": "04",
+    "capital": "Chandigarh"
+  },
+  {
+    "state_code": "CG",
+    "name": "Chhattisgarh",
+    "gst_code": "22",
+    "capital": "Raipur"
+  },
+  {
+    "state_code": "DH",
+    "name": "Dadra and Nagar Haveli and Daman and Diu",
+    "gst_code": "26",
+    "capital": "Daman"
+  },
+  {
+    "state_code": "DL",
+    "name": "Delhi",
+    "gst_code": "07",
+    "capital": "New Delhi"
+  },
+  {
+    "state_code": "GA",
+    "name": "Goa",
+    "gst_code": "30",
+    "capital": "Panaji"
+  },
+  {
+    "state_code": "GJ",
+    "name": "Gujarat",
+    "gst_code": "24",
+    "capital": "Gandhinagar"
+  },
+  {
+    "state_code": "HR",
+    "name": "Haryana",
+    "gst_code": "06",
+    "capital": "Chandigarh"
+  },
+  {
+    "state_code": "HP",
+    "name": "Himachal Pradesh",
+    "gst_code": "02",
+    "capital": "Shimla"
+  },
+  {
+    "state_code": "JK",
+    "name": "Jammu and Kashmir",
+    "gst_code": "01",
+    "capital": "Srinagar"
+  },
+  {
+    "state_code": "JH",
+    "name": "Jharkhand",
+    "gst_code": "20",
+    "capital": "Ranchi"
+  },
+  {
+    "state_code": "KA",
+    "name": "Karnataka",
+    "gst_code": "29",
+    "capital": "Bengaluru"
+  },
+  {
+    "state_code": "KL",
+    "name": "Kerala",
+    "gst_code": "32",
+    "capital": "Thiruvananthapuram"
+  },
+  {
+    "state_code": "LA",
+    "name": "Ladakh",
+    "gst_code": "38",
+    "capital": "Leh"
+  },
+  {
+    "state_code": "LD",
+    "name": "Lakshadweep",
+    "gst_code": "31",
+    "capital": "Kavaratti"
+  },
+  {
+    "state_code": "MP",
+    "name": "Madhya Pradesh",
+    "gst_code": "23",
+    "capital": "Bhopal"
+  },
+  {
+    "state_code": "MH",
+    "name": "Maharashtra",
+    "gst_code": "27",
+    "capital": "Mumbai"
+  },
+  {
+    "state_code": "MN",
+    "name": "Manipur",
+    "gst_code": "14",
+    "capital": "Imphal"
+  },
+  {
+    "state_code": "ML",
+    "name": "Meghalaya",
+    "gst_code": "17",
+    "capital": "Shillong"
+  },
+  {
+    "state_code": "MZ",
+    "name": "Mizoram",
+    "gst_code": "15",
+    "capital": "Aizawl"
+  },
+  {
+    "state_code": "NL",
+    "name": "Nagaland",
+    "gst_code": "13",
+    "capital": "Kohima"
+  },
+  {
+    "state_code": "OD",
+    "name": "Odisha",
+    "gst_code": "21",
+    "capital": "Bhubaneswar"
+  },
+  {
+    "state_code": "PY",
+    "name": "Puducherry",
+    "gst_code": "34",
+    "capital": "Puducherry"
+  },
+  {
+    "state_code": "PB",
+    "name": "Punjab",
+    "gst_code": "03",
+    "capital": "Chandigarh"
+  },
+  {
+    "state_code": "RJ",
+    "name": "Rajasthan",
+    "gst_code": "08",
+    "capital": "Jaipur"
+  },
+  {
+    "state_code": "SK",
+    "name": "Sikkim",
+    "gst_code": "11",
+    "capital": "Gangtok"
+  },
+  {
+    "state_code": "TN",
+    "name": "Tamil Nadu",
+    "gst_code": "33",
+    "capital": "Chennai"
+  },
+  {
+    "state_code": "TS",
+    "name": "Telangana",
+    "gst_code": "36",
+    "capital": "Hyderabad"
+  },
+  {
+    "state_code": "TR",
+    "name": "Tripura",
+    "gst_code": "16",
+    "capital": "Agartala"
+  },
+  {
+    "state_code": "UP",
+    "name": "Uttar Pradesh",
+    "gst_code": "09",
+    "capital": "Lucknow"
+  },
+  {
+    "state_code": "UK",
+    "name": "Uttarakhand",
+    "gst_code": "05",
+    "capital": "Dehradun"
+  },
+  {
+    "state_code": "WB",
+    "name": "West Bengal",
+    "gst_code": "19",
+    "capital": "Kolkata"
+  }
+]

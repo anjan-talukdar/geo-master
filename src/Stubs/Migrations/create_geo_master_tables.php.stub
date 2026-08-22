@@ -1,0 +1,66 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('countries', function (Blueprint $table) {
+            $table->id();
+            $table->string('name');
+            $table->string('iso2', 2)->unique();
+            $table->string('iso3', 3)->unique()->nullable();
+            $table->string('phone_code')->nullable();
+            $table->string('currency')->nullable();
+            $table->string('capital')->nullable();
+            $table->timestamps();
+        });
+
+        Schema::create('states', function (Blueprint $table) {
+            $table->id();
+            $table->foreignId('country_id')->constrained('countries')->onDelete('cascade');
+            $table->string('name');
+            $table->string('state_code')->nullable();
+            $table->string('gst_code')->nullable();
+            $table->string('capital')->nullable();
+            $table->timestamps();
+            
+            $table->unique(['country_id', 'state_code']);
+        });
+
+        Schema::create('districts', function (Blueprint $table) {
+            $table->id();
+            $table->foreignId('state_id')->constrained('states')->onDelete('cascade');
+            $table->string('name');
+            $table->timestamps();
+            
+            $table->unique(['state_id', 'name']);
+        });
+
+        Schema::create('cities', function (Blueprint $table) {
+            $table->id();
+            $table->foreignId('district_id')->constrained('districts')->onDelete('cascade');
+            $table->string('name');
+            $table->timestamps();
+            
+            $table->unique(['district_id', 'name']);
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('cities');
+        Schema::dropIfExists('districts');
+        Schema::dropIfExists('states');
+        Schema::dropIfExists('countries');
+    }
+};

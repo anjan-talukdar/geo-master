@@ -1,0 +1,29 @@
+{
+    "name": "anjan-talukdar/geo-master",
+    "description": "An ejectable scaffolding package for managing global geographic data (Countries, States, Districts, Cities) in Laravel.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anjan Talukdar"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "illuminate/support": "^9.0|^10.0|^11.0|^12.0|^13.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "AnjanTalukdar\\GeoMaster\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "AnjanTalukdar\\GeoMaster\\GeoMasterServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
