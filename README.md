@@ -1,5 +1,9 @@
 # GeoMaster Package for Laravel
 
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/anjan-talukdar/geo-master.svg?style=flat-square)](https://packagist.org/packages/anjan-talukdar/geo-master)
+[![Total Downloads](https://img.shields.io/packagist/dt/anjan-talukdar/geo-master.svg?style=flat-square)](https://packagist.org/packages/anjan-talukdar/geo-master)
+[![License](https://img.shields.io/packagist/l/anjan-talukdar/geo-master.svg?style=flat-square)](https://packagist.org/packages/anjan-talukdar/geo-master)
+
 An ejectable scaffolding package for managing global geographic data (Countries, States, Districts, Cities) in Laravel.
 
 ## Features
