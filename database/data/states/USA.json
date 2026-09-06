@@ -1,0 +1,302 @@
+[
+  {
+    "state_code": "AL",
+    "name": "Alabama",
+    "gst_code": null,
+    "capital": "Montgomery"
+  },
+  {
+    "state_code": "AK",
+    "name": "Alaska",
+    "gst_code": null,
+    "capital": "Juneau"
+  },
+  {
+    "state_code": "AZ",
+    "name": "Arizona",
+    "gst_code": null,
+    "capital": "Phoenix"
+  },
+  {
+    "state_code": "AR",
+    "name": "Arkansas",
+    "gst_code": null,
+    "capital": "Little Rock"
+  },
+  {
+    "state_code": "CA",
+    "name": "California",
+    "gst_code": null,
+    "capital": "Sacramento"
+  },
+  {
+    "state_code": "CO",
+    "name": "Colorado",
+    "gst_code": null,
+    "capital": "Denver"
+  },
+  {
+    "state_code": "CT",
+    "name": "Connecticut",
+    "gst_code": null,
+    "capital": "Hartford"
+  },
+  {
+    "state_code": "DE",
+    "name": "Delaware",
+    "gst_code": null,
+    "capital": "Dover"
+  },
+  {
+    "state_code": "FL",
+    "name": "Florida",
+    "gst_code": null,
+    "capital": "Tallahassee"
+  },
+  {
+    "state_code": "GA",
+    "name": "Georgia",
+    "gst_code": null,
+    "capital": "Atlanta"
+  },
+  {
+    "state_code": "HI",
+    "name": "Hawaii",
+    "gst_code": null,
+    "capital": "Honolulu"
+  },
+  {
+    "state_code": "ID",
+    "name": "Idaho",
+    "gst_code": null,
+    "capital": "Boise"
+  },
+  {
+    "state_code": "IL",
+    "name": "Illinois",
+    "gst_code": null,
+    "capital": "Springfield"
+  },
+  {
+    "state_code": "IN",
+    "name": "Indiana",
+    "gst_code": null,
+    "capital": "Indianapolis"
+  },
+  {
+    "state_code": "IA",
+    "name": "Iowa",
+    "gst_code": null,
+    "capital": "Des Moines"
+  },
+  {
+    "state_code": "KS",
+    "name": "Kansas",
+    "gst_code": null,
+    "capital": "Topeka"
+  },
+  {
+    "state_code": "KY",
+    "name": "Kentucky",
+    "gst_code": null,
+    "capital": "Frankfort"
+  },
+  {
+    "state_code": "LA",
+    "name": "Louisiana",
+    "gst_code": null,
+    "capital": "Baton Rouge"
+  },
+  {
+    "state_code": "ME",
+    "name": "Maine",
+    "gst_code": null,
+    "capital": "Augusta"
+  },
+  {
+    "state_code": "MD",
+    "name": "Maryland",
+    "gst_code": null,
+    "capital": "Annapolis"
+  },
+  {
+    "state_code": "MA",
+    "name": "Massachusetts",
+    "gst_code": null,
+    "capital": "Boston"
+  },
+  {
+    "state_code": "MI",
+    "name": "Michigan",
+    "gst_code": null,
+    "capital": "Lansing"
+  },
+  {
+    "state_code": "MN",
+    "name": "Minnesota",
+    "gst_code": null,
+    "capital": "Saint Paul"
+  },
+  {
+    "state_code": "MS",
+    "name": "Mississippi",
+    "gst_code": null,
+    "capital": "Jackson"
+  },
+  {
+    "state_code": "MO",
+    "name": "Missouri",
+    "gst_code": null,
+    "capital": "Jefferson City"
+  },
+  {
+    "state_code": "MT",
+    "name": "Montana",
+    "gst_code": null,
+    "capital": "Helena"
+  },
+  {
+    "state_code": "NE",
+    "name": "Nebraska",
+    "gst_code": null,
+    "capital": "Lincoln"
+  },
+  {
+    "state_code": "NV",
+    "name": "Nevada",
+    "gst_code": null,
+    "capital": "Carson City"
+  },
+  {
+    "state_code": "NH",
+    "name": "New Hampshire",
+    "gst_code": null,
+    "capital": "Concord"
+  },
+  {
+    "state_code": "NJ",
+    "name": "New Jersey",
+    "gst_code": null,
+    "capital": "Trenton"
+  },
+  {
+    "state_code": "NM",
+    "name": "New Mexico",
+    "gst_code": null,
+    "capital": "Santa Fe"
+  },
+  {
+    "state_code": "NY",
+    "name": "New York",
+    "gst_code": null,
+    "capital": "Albany"
+  },
+  {
+    "state_code": "NC",
+    "name": "North Carolina",
+    "gst_code": null,
+    "capital": "Raleigh"
+  },
+  {
+    "state_code": "ND",
+    "name": "North Dakota",
+    "gst_code": null,
+    "capital": "Bismarck"
+  },
+  {
+    "state_code": "OH",
+    "name": "Ohio",
+    "gst_code": null,
+    "capital": "Columbus"
+  },
+  {
+    "state_code": "OK",
+    "name": "Oklahoma",
+    "gst_code": null,
+    "capital": "Oklahoma City"
+  },
+  {
+    "state_code": "OR",
+    "name": "Oregon",
+    "gst_code": null,
+    "capital": "Salem"
+  },
+  {
+    "state_code": "PA",
+    "name": "Pennsylvania",
+    "gst_code": null,
+    "capital": "Harrisburg"
+  },
+  {
+    "state_code": "RI",
+    "name": "Rhode Island",
+    "gst_code": null,
+    "capital": "Providence"
+  },
+  {
+    "state_code": "SC",
+    "name": "South Carolina",
+    "gst_code": null,
+    "capital": "Columbia"
+  },
+  {
+    "state_code": "SD",
+    "name": "South Dakota",
+    "gst_code": null,
+    "capital": "Pierre"
+  },
+  {
+    "state_code": "TN",
+    "name": "Tennessee",
+    "gst_code": null,
+    "capital": "Nashville"
+  },
+  {
+    "state_code": "TX",
+    "name": "Texas",
+    "gst_code": null,
+    "capital": "Austin"
+  },
+  {
+    "state_code": "UT",
+    "name": "Utah",
+    "gst_code": null,
+    "capital": "Salt Lake City"
+  },
+  {
+    "state_code": "VT",
+    "name": "Vermont",
+    "gst_code": null,
+    "capital": "Montpelier"
+  },
+  {
+    "state_code": "VA",
+    "name": "Virginia",
+    "gst_code": null,
+    "capital": "Richmond"
+  },
+  {
+    "state_code": "WA",
+    "name": "Washington",
+    "gst_code": null,
+    "capital": "Olympia"
+  },
+  {
+    "state_code": "WV",
+    "name": "West Virginia",
+    "gst_code": null,
+    "capital": "Charleston"
+  },
+  {
+    "state_code": "WI",
+    "name": "Wisconsin",
+    "gst_code": null,
+    "capital": "Madison"
+  },
+  {
+    "state_code": "WY",
+    "name": "Wyoming",
+    "gst_code": null,
+    "capital": "Cheyenne"
+  }
+]
